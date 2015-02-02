@@ -6,8 +6,8 @@
     margin: 0 auto;
     width: 100%;
     text-align: center;
-    background: linear-gradient(263deg, #e51b24, #000000, #ffffff);
-background-size: 600% 600%;
+  background: linear-gradient(263deg, #e51b24, #000000);
+background-size: 400% 400%;
 -webkit-animation: AnimationName 59s ease infinite;
 -moz-animation: AnimationName 59s ease infinite;
 -o-animation: AnimationName 59s ease infinite;
